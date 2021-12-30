@@ -1,5 +1,5 @@
 # cot-types
-Copied from ESRI's solutionsi-geoevent-java repository at:
+Copied from ESRI's solutions-geoevent-java repository at:
 https://github.com/Esri/solutions-geoevent-java
 
      Copyright (C) 2003 MITRE Corporation
